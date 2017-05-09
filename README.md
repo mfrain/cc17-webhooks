@@ -1,2 +1,1 @@
-mf lab5++
-lab5++
+martin lab6
